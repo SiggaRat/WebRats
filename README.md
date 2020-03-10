@@ -1,3 +1,4 @@
 # WebRats
-The Team Website \n
+The Team Website
+
 Calamity: i will work on this ASAP, but not now kthx
