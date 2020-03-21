@@ -1,0 +1,15 @@
+.mhead {
+    font-family: monospace;
+    text-align: center;
+    color: #1b1b1c;
+}
+body {
+	background-image: url('../bg.png');
+	background-attachment: fixed;
+	background-size: cover;
+}
+.forward, a {
+    font-size: 30px;
+    color: #1b1b1c;
+    text-align: center;
+}
